@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "173396830005",
+    "firebase_url": "https://echo-gfas.firebaseio.com",
+    "project_id": "echo-gfas",
+    "storage_bucket": "echo-gfas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173396830005:android:9aeaea93615652c6af8e7c",
+        "android_client_info": {
+          "package_name": "com.example.parallax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173396830005-u4nv5prhpi5962t1dcv6qi5gu79m6e14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parallax",
+            "certificate_hash": "6184545346d43058681ad11054cb08a30d230cd4"
+          }
+        },
+        {
+          "client_id": "173396830005-5ed78lmd1ijlc9ponqi1bdbijqrdgg0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parallax",
+            "certificate_hash": "b42eff1ff92c6f246a0e29ffd30baecec780ba24"
+          }
+        },
+        {
+          "client_id": "173396830005-p9kgukpgrjloutq1p3tj7kclpftjl5hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kSwp16vevWSWZATYiVmOhF7gedvl_8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173396830005-p9kgukpgrjloutq1p3tj7kclpftjl5hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
